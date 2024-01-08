@@ -1,4 +1,4 @@
-# Leetcode-solve
+# Leetcode Daily Challenge-solve
 Here is my solve of the problems I solved in leetcode
 | Date       |   #  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
