@@ -1,6 +1,6 @@
 # Leetcode Daily Challenge-solve
 Here is my solve of the problems I solved in leetcode
-| Date       |   #  | Challenge Title          | Type                         | Code Link |
+| Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
 | `2024-01-11` | [1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | Maximum Difference Between Node and Ancestor | Tree | [code/1026.cpp](code/1026.cpp) |
 | `2024-01-10` | [2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/description/) | Amount of Time for Binary Tree to Be Infected | Tree | [code/2385.cpp](code/2385.cpp) |
