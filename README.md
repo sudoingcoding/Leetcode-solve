@@ -2,6 +2,7 @@
 Here is my solve of the problems I solved in leetcode
 | Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
+| `2024-01-17` | [1207](https://leetcode.com/problems/unique-number-of-occurrences/description/) | Unique Number of Occurrences | Array | [code/1207.cpp](code/1207.cpp) |
 | `2024-01-16` | [380](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | Insert Delete GetRandom O(1) | Array | [code/380.cpp](code/380.cpp) |
 | `2024-01-15` | [2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/description/) | Find Players With Zero or One Losses | Array | [code/2225.cpp](code/2225.cpp) |
 | `2024-01-14` | [1657](https://leetcode.com/problems/determine-if-two-strings-are-close/description/) | Determine if Two Strings Are Close | String | [code/1657.cpp](code/1657.cpp) |
