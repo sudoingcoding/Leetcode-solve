@@ -2,6 +2,7 @@
 Here is my solve of the problems I solved in leetcode
 | Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
+| `2024-01-20` | [907](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | Sum of Subarray Minimums | Dynamic Programming | [code/907.cpp](code/907.cpp) |
 | `2024-01-19` | [931](https://leetcode.com/problems/minimum-falling-path-sum/description/) | Minimum Falling Path Sum | Dynamic Programming | [code/931.cpp](code/931.cpp) |
 | `2024-01-18` | [70](https://leetcode.com/problems/climbing-stairs/description/) | Climbing Stairs | Dynamic Programming | [code/70.cpp](code/70.cpp) |
 | `2024-01-17` | [1207](https://leetcode.com/problems/unique-number-of-occurrences/description/) | Unique Number of Occurrences | Array | [code/1207.cpp](code/1207.cpp) |
