@@ -2,8 +2,9 @@
 Here is my solve of the problems I solved in leetcode
 | Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
-| `2024-01-22` | [645](https://leetcode.com/problems/set-mismatch/description/) | Set Mismatch | Array | [code/645.cpp](code/645.cpp) |
-| `2024-01-21` | [198](https://leetcode.com/problems/house-robber/description/) | House Robber | Array | [code/198.cpp](code/198.cpp) |
+| `2024-01-23` | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/) | Maximum Length of a Concatenated String with Unique Characters | Bit Manipulation | [code/1239.cpp](code/1239.cpp) |
+| `2024-01-22` | [645](https://leetcode.com/problems/set-mismatch/description/) | Set Mismatch | Bit Manipulation | [code/645.cpp](code/645.cpp) |
+| `2024-01-21` | [198](https://leetcode.com/problems/house-robber/description/) | House Robber | Dynamic Programming | [code/198.cpp](code/198.cpp) |
 | `2024-01-20` | [907](https://leetcode.com/problems/sum-of-subarray-minimums/description/) | Sum of Subarray Minimums | Dynamic Programming | [code/907.cpp](code/907.cpp) |
 | `2024-01-19` | [931](https://leetcode.com/problems/minimum-falling-path-sum/description/) | Minimum Falling Path Sum | Dynamic Programming | [code/931.cpp](code/931.cpp) |
 | `2024-01-18` | [70](https://leetcode.com/problems/climbing-stairs/description/) | Climbing Stairs | Dynamic Programming | [code/70.cpp](code/70.cpp) |
