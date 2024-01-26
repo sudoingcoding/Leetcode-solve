@@ -2,6 +2,7 @@
 Here is my solve of the problems I solved in leetcode
 | Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
+| `2024-01-26` | [576](https://leetcode.com/problems/out-of-boundary-paths/description/) | Out of Boundary Paths | Dynamic Programming | [code/576.cpp](code/576.cpp) |
 | `2024-01-25` | [1143](https://leetcode.com/problems/longest-common-subsequence/description/) | Longest Common Subsequence | Dynamic Programming | [code/1143.cpp](code/1143.cpp) |
 | `2024-01-24` | [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | Pseudo-Palindromic Paths in a Binary Tree | Bit Manipulation | [code/1457.cpp](code/1457.cpp) |
 | `2024-01-23` | [1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/description/) | Maximum Length of a Concatenated String with Unique Characters | Bit Manipulation | [code/1239.cpp](code/1239.cpp) |
