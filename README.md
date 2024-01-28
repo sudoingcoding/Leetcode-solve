@@ -2,7 +2,8 @@
 Here is my solve of the problems I solved in leetcode
 | Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
-| `2024-01-28` | [629](https://leetcode.com/problems/k-inverse-pairs-array/description/) | K Inverse Pairs Array | Dynamic Programming | [code/629.cpp](code/629.cpp) |
+| `2024-01-28` | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) | Number of Submatrices That Sum to Target | Prefix Sum | [code/1074.cpp](code/1074.cpp) |
+| `2024-01-27` | [629](https://leetcode.com/problems/k-inverse-pairs-array/description/) | K Inverse Pairs Array | Dynamic Programming | [code/629.cpp](code/629.cpp) |
 | `2024-01-26` | [576](https://leetcode.com/problems/out-of-boundary-paths/description/) | Out of Boundary Paths | Dynamic Programming | [code/576.cpp](code/576.cpp) |
 | `2024-01-25` | [1143](https://leetcode.com/problems/longest-common-subsequence/description/) | Longest Common Subsequence | Dynamic Programming | [code/1143.cpp](code/1143.cpp) |
 | `2024-01-24` | [1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/) | Pseudo-Palindromic Paths in a Binary Tree | Bit Manipulation | [code/1457.cpp](code/1457.cpp) |
