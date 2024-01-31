@@ -2,6 +2,7 @@
 Here is my solve of the problems I solved in leetcode
 | Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
+| `2024-01-31` | [739](https://leetcode.com/problems/daily-temperatures/description/) | Daily Temperatures | Stack | [code/739.cpp](code/739.cpp) |
 | `2024-01-30` | [150](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/) | Evaluate Reverse Polish Notation | Stack | [code/150.cpp](code/150.cpp) |
 | `2024-01-29` | [232](https://leetcode.com/problems/implement-queue-using-stacks/description/) | Implement Queue using Stacks | Stack | [code/232.cpp](code/232.cpp) |
 | `2024-01-28` | [1074](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/description/) | Number of Submatrices That Sum to Target | Prefix Sum | [code/1074.cpp](code/1074.cpp) |
