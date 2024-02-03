@@ -2,6 +2,7 @@
 Here is my solve of the problems I solved in leetcode
 | Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
+| `2024-02-03` | [1043](https://leetcode.com/problems/partition-array-for-maximum-sum/description/) | Partition Array for Maximum Sum | Dynamic Programming | [code/1043.cpp](code/1043.cpp) |
 | `2024-02-02` | [1291](https://leetcode.com/problems/sequential-digits/description/) | Sequential Digits | Enumeration | [code/1291.cpp](code/1291.cpp) |
 | `2024-02-01` | [2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/description/) | Divide Array Into Arrays With Max Difference | Greedy | [code/2966.cpp](code/2966.cpp) |
 | `2024-01-31` | [739](https://leetcode.com/problems/daily-temperatures/description/) | Daily Temperatures | Stack | [code/739.cpp](code/739.cpp) |
