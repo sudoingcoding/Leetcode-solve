@@ -2,6 +2,7 @@
 Here is my solve of the problems I solved in leetcode
 | Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
+| `2024-02-07` | [451](https://leetcode.com/problems/sort-characters-by-frequency/description/) | Sort Characters By Frequency | Hash Table | [code/451.cpp](code/451.cpp) |
 | `2024-02-06` | [49](https://leetcode.com/problems/group-anagrams/description/) | Group Anagrams | Hash Table | [code/49.cpp](code/49.cpp) |
 | `2024-02-05` | [387](https://leetcode.com/problems/first-unique-character-in-a-string/description/) | First Unique Character in a String | Hash Table | [code/387.cpp](code/387.cpp) |
 | `2024-02-04` | [76](https://leetcode.com/problems/minimum-window-substring/description/) | Minimum Window Substring | Hash Table | [code/76.cpp](code/76.cpp) |
