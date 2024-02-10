@@ -2,6 +2,7 @@
 Here is my solve of the problems I solved in leetcode
 | Date       |   Web Link  | Challenge Title          | Type                         | Code Link |
 |------------|------|--------------------------|------------------------------|-----------|
+| `2024-02-10` | [647](https://leetcode.com/problems/palindromic-substrings/description/) | Palindromic Substrings | Dynamic Programming | [code/647.cpp](code/647.cpp) |
 | `2024-02-09` | [368](https://leetcode.com/problems/largest-divisible-subset/description/) | Largest Divisible Subset | Dynamic Programming | [code/368.cpp](code/368.cpp) |
 | `2024-02-08` | [279](https://leetcode.com/problems/perfect-squares/description/) | Perfect Squares | Dynamic Programming | [code/279.cpp](code/279.cpp) |
 | `2024-02-07` | [451](https://leetcode.com/problems/sort-characters-by-frequency/description/) | Sort Characters By Frequency | Hash Table | [code/451.cpp](code/451.cpp) |
